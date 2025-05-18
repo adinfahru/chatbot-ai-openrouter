@@ -3,7 +3,6 @@
 Aplikasi chatbot sederhana menggunakan model **DeepSeek Chat** dari OpenRouter dan antarmuka web berbasis **Streamlit**.
 
 ![alt text](image.png)
-
 ![Powered by OpenRouter](https://img.shields.io/badge/OpenRouter-Chat%20API-blue)
 ![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
