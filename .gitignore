@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+
+# Virtual Environment
+env/
+venv/
+ENV/
+VENV/
+.venv/
+.ENV/
+
+# Jupyter / VS Code / Editor
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+logs/
+
+# Environment variables
+.env
+.env.*
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+
+# Backup files
+*~
+*.bak
+
+# Pytest / coverage
+.cache/
+.coverage
+htmlcov/
+
+# Requirements lock (optional)
+poetry.lock
+Pipfile.lock
